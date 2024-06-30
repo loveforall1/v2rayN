@@ -121,7 +121,7 @@
     <value>صادرات دسته ای محتوای اشتراک به کلیپ بورد با موفقیت انجام شد</value>
   </data>
   <data name="BatchExportURLSuccessfully" xml:space="preserve">
-    <value>Batch export share URL to clipboard successfully</value>
+    <value>ارسال دسته ای اشتراک گذاری آدرس به کلیپ بورد با موفقیت انجام شد.</value>
   </data>
   <data name="CheckServerSettings" xml:space="preserve">
     <value>لطفا ابتدا تنظیمات سرور را بررسی کنید</value>
@@ -139,7 +139,7 @@
     <value>دانلود</value>
   </data>
   <data name="DownloadYesNo" xml:space="preserve">
-    <value>Whether to download? {0}</value>
+    <value>میخواهید دانلود انجام شود؟ {0}</value>
   </data>
   <data name="FailedConversionConfiguration" xml:space="preserve">
     <value>تبدیل فایل پیکربندی انجام نشد</value>
@@ -238,7 +238,7 @@
     <value>هیچ اشتراک معتبری تنظیم نشده است</value>
   </data>
   <data name="MsgParsingSuccessfully" xml:space="preserve">
-    <value>Resolve {0} successfully</value>
+    <value>حل شد {0} با موفقیت</value>
   </data>
   <data name="MsgStartGettingSubscriptions" xml:space="preserve">
     <value>شروع به دریافت اشتراک شد</value>
@@ -265,22 +265,22 @@
     <value>هسته با موفقیت بروزرسانی شد! راه اندازی مجدد سرویس...</value>
   </data>
   <data name="NonvmessOrssProtocol" xml:space="preserve">
-    <value>Non-VMess or ss protocol</value>
+    <value>Non-VMess یا ss protocol</value>
   </data>
   <data name="NonVmessService" xml:space="preserve">
-    <value> non-standard service, this feature is invalid</value>
+    <value> سرویس غیر استاندارد، این ویژگی نامعتبر است.</value>
   </data>
   <data name="NotFoundCore" xml:space="preserve">
-    <value>The Core file (file name: {1}) was not found under the folder ({0}), please download and put it in the folder, download address: {2}</value>
+    <value>فایل هسته (file name: {1}) زیر پوشه پیدا نشد ({0})، لطفا دانلود کنید و در پوشه قرار دهید. آدرس دانلود: {2}</value>
   </data>
   <data name="NoValidQRcodeFound" xml:space="preserve">
-    <value>Scan completed, no valid QR code found</value>
+    <value>اسکن کامل شد، کد QR معتبری یافت نشد</value>
   </data>
   <data name="OperationFailed" xml:space="preserve">
     <value> عملیات انجام نشد، لطفا بررسی کنید و دوباره امتحان کنید</value>
   </data>
   <data name="PleaseFillRemarks" xml:space="preserve">
-    <value>Please Fill Remarks</value>
+    <value>لطفا نکات را پر کنید</value>
   </data>
   <data name="PleaseSelectEncryption" xml:space="preserve">
     <value>لطفاً روش رمزگذاری را انتخاب کنید</value>
@@ -292,16 +292,16 @@
     <value>لطفا ابتدا سرور را انتخاب کنید</value>
   </data>
   <data name="RemoveDuplicateServerResult" xml:space="preserve">
-    <value>Servers deduplication completed. Old: {0}, New: {1}.</value>
+    <value>حذف مجدد سرورها تکمیل شد. قدیمی: {0}, جدید: {1}.</value>
   </data>
   <data name="RemoveServer" xml:space="preserve">
     <value>آیا مطمئن هستید که سرور را حذف می کنید؟</value>
   </data>
   <data name="SaveClientConfigurationIn" xml:space="preserve">
-    <value>The client configuration file is saved at: {0}</value>
+    <value>فایل پیکربندی کلاینت در این آدرس ذخیره می شود: {0}</value>
   </data>
   <data name="StartService" xml:space="preserve">
-    <value>Start service ({0})...</value>
+    <value>شروع سرویس... ({0})</value>
   </data>
   <data name="SuccessfulConfiguration" xml:space="preserve">
     <value>پیکربندی با موفقیت انجام شد
@@ -332,19 +332,19 @@
     <value>{0},یکی از مورد نیاز.</value>
   </data>
   <data name="LvRemarks" xml:space="preserve">
-    <value>Remarks</value>
+    <value>نکات</value>
   </data>
   <data name="LvUrl" xml:space="preserve">
-    <value>Url(Optional)</value>
+    <value>Url(اختیاری)</value>
   </data>
   <data name="LvCount" xml:space="preserve">
     <value>Count</value>
   </data>
   <data name="MsgNeedUrl" xml:space="preserve">
-    <value>Please fill in the address (Url)</value>
+    <value>لطفا آدرس را وارد کنید (Url)</value>
   </data>
   <data name="AddBatchRoutingRulesYesNo" xml:space="preserve">
-    <value>Do you want to append rules? Choose yes to append, choose otherwise to replace</value>
+    <value>آیا می خواهید قوانین را اضافه کنید؟ برای ضمیمه بله را انتخاب کنید، در غیر این صورت جایگزین کنید</value>
   </data>
   <data name="MsgDownloadGeoFileSuccessfully" xml:space="preserve">
     <value>دانلود GeoFile: {0} با موفقیت</value>
@@ -371,7 +371,7 @@
     <value>*grpc serviceName</value>
   </data>
   <data name="TransportRequestHostTip1" xml:space="preserve">
-    <value>*http host Separated by commas (,)</value>
+    <value>*میزبان http با کاما از هم جدا شده است (,)</value>
   </data>
   <data name="TransportRequestHostTip2" xml:space="preserve">
     <value>*ws host</value>
@@ -698,10 +698,10 @@
     <value>txtPreSocksPort</value>
   </data>
   <data name="TipPreSocksPort" xml:space="preserve">
-    <value>* After setting this value, an socks service will be started using Xray/sing-box(Tun) to provide functions such as speed display</value>
+    <value>* پس از تنظیم این مقدار، یک سرویس socks با استفاده از Xray/sing-box (Tun) برای ارائه عملکردهایی مانند نمایش سرعت شروع می شود.</value>
   </data>
   <data name="TbBrowse" xml:space="preserve">
-    <value>Browse</value>
+    <value>مرور کردن</value>
   </data>
   <data name="TbEdit" xml:space="preserve">
     <value>ویرایش</value>
@@ -713,7 +713,7 @@
     <value>اتصالات از LAN را مجاز کنید</value>
   </data>
   <data name="TbSettingsAutoHideStartup" xml:space="preserve">
-    <value>Auto hide startup</value>
+    <value>پنهان کردن خودکار استارت آپ</value>
   </data>
   <data name="TbSettingsAutoUpdateInterval" xml:space="preserve">
     <value>فاصله به روز رسانی خودکار و Geo (ساعت)</value>
@@ -722,7 +722,7 @@
     <value>هسته: تنظیمات اولیه</value>
   </data>
   <data name="TbSettingsCoreDns" xml:space="preserve">
-    <value>V2ray DNS settings</value>
+    <value>V2ray DNS تنظیمات</value>
   </data>
   <data name="TbSettingsCoreKcp" xml:space="preserve">
     <value>هسته: تنظیمات KCP</value>
@@ -734,7 +734,7 @@
     <value>اجازه ناامن</value>
   </data>
   <data name="TbSettingsDomainStrategy4Freedom" xml:space="preserve">
-    <value>Outbound Freedom domainStrategy</value>
+    <value>استراتژی دامنه آزادی برون مرزی</value>
   </data>
   <data name="TbSettingsEnableAutoAdjustMainLvColWidth" xml:space="preserve">
     <value>پس از به‌روزرسانی اشتراک، عرض ستون را به صورت خودکار تنظیم شود</value>
@@ -755,7 +755,7 @@
     <value>هنگام به‌روزرسانی هسته، فایل‌های Geo را نادیده بگیرید</value>
   </data>
   <data name="TbSettingsKeepOlderDedupl" xml:space="preserve">
-    <value>Keep older when deduplication</value>
+    <value>هنگام کپی برداری، فایل قدیمی را نگه دار</value>
   </data>
   <data name="TbSettingsLogEnabled" xml:space="preserve">
     <value>ثبت گزارش های محلی</value>
@@ -791,7 +791,7 @@
     <value>فعال کردن آمار (نیاز به راه اندازی مجدد)</value>
   </data>
   <data name="TbSettingsSubConvert" xml:space="preserve">
-    <value>Subscription conversion Url</value>
+    <value>URL تبدیل اشتراک</value>
   </data>
   <data name="TbSettingsSystemproxy" xml:space="preserve">
     <value>تنظیمات پراکسی سیستم</value>
@@ -857,7 +857,7 @@
     <value>Up (U)</value>
   </data>
   <data name="MsgFilterTitle" xml:space="preserve">
-    <value>Filter, support regular</value>
+    <value>فیلتر، پشتیبانی منظم</value>
   </data>
   <data name="menuWebsiteItem" xml:space="preserve">
     <value>{0} Website</value>
@@ -893,13 +893,13 @@
     <value>فعال کردن عملکرد پیشرفته</value>
   </data>
   <data name="TbRoutingTabBlock" xml:space="preserve">
-    <value>3.Block Domain or IP</value>
+    <value>3.مسدود کردن دامنه یا آی پی</value>
   </data>
   <data name="TbRoutingTabDirect" xml:space="preserve">
-    <value>2.Direct Domain or IP</value>
+    <value>2.دامنه یا آی پی مستقیم</value>
   </data>
   <data name="TbRoutingTabProxy" xml:space="preserve">
-    <value>1.Proxy Domain or IP</value>
+    <value>1.پراکسی دامنه یا آی پی</value>
   </data>
   <data name="TbRoutingTabRuleList" xml:space="preserve">
     <value>لیست مجموعه قوانین از پیش تعریف شده</value>
